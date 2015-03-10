@@ -5,6 +5,12 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+.beard {
+  size: 150px;
+}
+
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
